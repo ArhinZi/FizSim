@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f7377bfefdb789c44b9183380821e294
+timeCreated: 1491411202
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - nCam: {fileID: 114809096829576356, guid: 330108db75929fc4e9b9e0983a111f5f, type: 2}
+  - nMain: {fileID: 114768785574481664, guid: 2ffaa79061afa1a4d9f22eb7b416a3bb, type: 2}
+  - sRectangle: {fileID: 1032291764595476, guid: 79a3fcad0e165974b9b03590e03a80f5,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
